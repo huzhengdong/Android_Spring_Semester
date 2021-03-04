@@ -1,2 +1,2 @@
 # Android_Spring_Semester
-The repository
+The repository is for the homework of Android course
